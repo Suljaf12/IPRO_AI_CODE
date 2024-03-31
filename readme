@@ -1,0 +1,4 @@
+
+ Run this command to intsall all required libraries.
+
+pip install -r requirements.txt
