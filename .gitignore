@@ -1,0 +1,31 @@
+# created by virtualenv automatically
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+venv/
+env/
+ENV/
+
+# IDE specific files
+../.idea/
+*.iml
+*.ipr
+*.iws
+
+# Logs and databases
+*.log
+*.sqlite3
+*.db
+
+# Compiled Python files
+*.pyc
+
+# macOS-specific files
+.DS_Store
+
+# Windows-specific files
+Thumbs.db
